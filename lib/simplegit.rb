@@ -1,3 +1,4 @@
+coperation test
 # a super simple example class to use git in ruby
 class SimpleGit
   
